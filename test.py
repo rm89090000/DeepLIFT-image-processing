@@ -65,7 +65,7 @@ plt.axis('off')
 
 # sketch based on 
 plt.subplot(1, 3, 3)
-plt.title("AI Importance Sketch")
+plt.title("Sample Sketch")
 plt.imshow(sketch, cmap='gray')
 plt.axis('off')
 
